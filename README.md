@@ -43,7 +43,7 @@ This repository contains the analysis of a real phishing email sample as part of
 -  Result: Flagged as phishing by multiple security engines
 -  Conclusion: URL is clearly phishing/malicious
 
----
+
 
 ##  Tools Used
 ##  Summary of Tools Used
