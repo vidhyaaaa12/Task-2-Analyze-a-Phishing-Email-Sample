@@ -77,7 +77,7 @@ https://blog1seguimentmydomaine2bra.me/
 
 This is a textbook case of a *mismatched URL* used to deceive the user.
 
----
+
 
 ### 7. Spelling or Grammar Errors
 
@@ -90,7 +90,7 @@ Although the email is in Portuguese and mostly grammatically correct, the tone a
 
 These signs point to a poorly crafted *mass phishing attempt*, not an official corporate email.
 
----
+
 
 ### 8. Summary of Phishing Characteristics
 
